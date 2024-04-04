@@ -24,4 +24,5 @@ jobs:
     - name: Spotless Check
       run: ./gradlew spotlessCheck
     - name: Run tests
-      run: ./gradlew testFreeDebug
+      run: ./gradlew testFreeDebug  
+      
